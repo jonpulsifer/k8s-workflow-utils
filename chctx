@@ -1,4 +1,4 @@
-#!/bin/zsh#!/bin/bash
+#!/bin/bash
 set -eo pipefail
 
 # Fuzzy matches available kubernetes context names for fast context switching
